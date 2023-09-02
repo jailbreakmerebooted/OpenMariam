@@ -1,5 +1,13 @@
+<style>
+  .test {
+    width: 300
+    height: 300
+  }
+</style>
 <center>
+  <div class="test">
   <a href="#"><img src="/ico.png" alt="Logo"></a>
+  </div>
 </center>
 
 # OpenMariam
